@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MD4_Session11_DongGoiThuVienJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MD4_Session11_DongGoiThuVienJava_jar</output-path>
+    <root id="archive" name="MD4_Session11_DongGoiThuVienJava.jar">
+      <element id="module-output" name="MD4_Session11_DongGoiThuVienJava" />
+    </root>
+  </artifact>
+</component>
